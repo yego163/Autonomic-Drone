@@ -1,5 +1,5 @@
 # Autonomic-Drone Info
-Autonomic Drone based on TensorFlow/YOLOv5 runing on raspberry pi 4.
+Autonomic Drone based on TensorFlow/YOLOv5 runing on raspberry pi 4/NanoJetson.
 # Setup Instructions
 Will be added later
 # Contact 
